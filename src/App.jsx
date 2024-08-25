@@ -1,3 +1,5 @@
+// Adding details to update
+
 import Banner from "./components/Banner";
 import Buttons from "./components/Buttons";
 import Table from "./components/Table";
